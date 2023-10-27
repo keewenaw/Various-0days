@@ -1,0 +1,69 @@
+[Suggested description]
+The MetaPicz online image metadata viewer has an unauthenticated reflected cross-site scripting vulnerability. By modifying a certain parameter in "view.php", an attacker can inject and execute arbitrary JavaScript code.
+
+------------------------------------------
+
+[Additional Information]
+Vendor website is offline. Twitter and Facebook accounts appear to be defunct or non-
+existent. Sent an email following responsible disclosure guidelines to info@securo.it and
+inbox appears to be unmonitored. Have no way of contacting the company otherwise. No
+responses have been received.
+
+Exact PoC is:
+http://metapicz.com/view.php?action=metadata-get&format=html&imageUrl=
+https://pixy.org/src/477/4774988.jpg   
+
+Recommend testing with Chrome with XSS Auditor disabled. Also recommend using HTTP as
+HTTPS breaks the site functionality.
+
+------------------------------------------
+
+[Vulnerability Type]
+Cross Site Scripting (XSS)
+
+------------------------------------------
+
+[Vendor of Product]
+Secureo.it
+
+------------------------------------------
+
+[Affected Product Code Base]
+MetaPicz - 1.0
+
+------------------------------------------
+
+[Affected Component]
+https://metapicz.com/view.php
+
+------------------------------------------
+
+[Attack Type]
+Local
+
+------------------------------------------
+
+[Impact Code execution]
+true
+
+------------------------------------------
+
+[Impact Information Disclosure]
+true
+
+------------------------------------------
+
+[CVE Impact Other]
+Session takeover, cookie theft, client side data manipulation, redirects to malicious
+sites
+
+------------------------------------------
+
+[Attack Vectors]
+Crafted payload in "view.php" parameter allows for injection of arbitrary Javascript.
+
+------------------------------------------
+
+[Reference]
+https://metapicz.com 
+https://securo.it
