@@ -1,0 +1,1123 @@
+HTTP/2 200 OK
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+Link: <https://21bitcasino.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://21bitcasino.com/wp-json/wp/v2/pages/7>; rel="alternate"; type="application/json"
+Link: <https://21bitcasino.com/>; rel=shortlink
+Vary: Accept-Encoding
+Date: Sat, 22 Oct 2022 02:57:47 GMT
+Server: LiteSpeed
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+
+<!doctype html>
+<html lang="en-US">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="theme-color" content="#ffffff">
+	<meta name="robots" content="index, follow">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css2?family=Kanit:wght@400;600;700;800&display=swap" rel="stylesheet">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://21bitcasino.com/wp-content/themes/bit/assets/css/style.css">
+	<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Welcome to 21bit, the home of top-rated crypto casino games! Take a deep dive into 21bit casino and learn why we are the best crypto casino." />
+	<link rel="canonical" href="https://21bitcasino.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="21bit Casino - Top Crypto Gambling Casino" />
+	<meta property="og:description" content="Welcome to 21bit, the home of top-rated crypto casino games! Take a deep dive into 21bit casino and learn why we are the best crypto casino." />
+	<meta property="og:url" content="https://21bitcasino.com/" />
+	<meta property="og:site_name" content="21bit" />
+	<meta property="article:modified_time" content="2022-08-01T16:31:22+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://21bitcasino.com/#website","url":"https://21bitcasino.com/","name":"21bit","description":"The best casinos online","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://21bitcasino.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://21bitcasino.com/","url":"https://21bitcasino.com/","name":"21bit Casino - Top Crypto Gambling Casino","isPartOf":{"@id":"https://21bitcasino.com/#website"},"datePublished":"2022-02-25T12:21:29+00:00","dateModified":"2022-08-01T16:31:22+00:00","description":"Welcome to 21bit, the home of top-rated crypto casino games! Take a deep dive into 21bit casino and learn why we are the best crypto casino.","breadcrumb":{"@id":"https://21bitcasino.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://21bitcasino.com/"]}]},{"@type":"BreadcrumbList","@id":"https://21bitcasino.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://21bitcasino.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='style-css'  href='https://21bitcasino.com/wp-content/themes/bit/assets/css/style.css?ver=6.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.0.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://21bitcasino.com/wp-includes/js/jquery/jquery.js' id='jquery-js'></script>
+<script type='text/javascript' src='https://21bitcasino.com/wp-content/themes/bit/assets/js/main.js?ver=1' id='appMainJs-js'></script>
+<script type='text/javascript' id='misha_scripts-js-extra'>
+/* <![CDATA[ */
+var hm_loadmore_params = {"ajaxurl":"https:\/\/21bitcasino.com\/wp-admin\/admin-ajax.php","posts":"{\"error\":\"\",\"m\":\"\",\"p\":\"7\",\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"\",\"pagename\":\"\",\"page_id\":\"7\",\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":10,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}","current_page":"1","max_page":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://21bitcasino.com/wp-content/themes/bit/assets/js/script.js?ver=6.0.3' id='misha_scripts-js'></script>
+<link rel="https://api.w.org/" href="https://21bitcasino.com/wp-json/" /><link rel="alternate" type="application/json" href="https://21bitcasino.com/wp-json/wp/v2/pages/7" />
+<link rel='shortlink' href='https://21bitcasino.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://21bitcasino.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2F21bitcasino.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://21bitcasino.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2F21bitcasino.com%2F&#038;format=xml" />
+<link rel="icon" href="https://21bitcasino.com/wp-content/uploads/2022/04/favicon-01.png" sizes="32x32" />
+<link rel="icon" href="https://21bitcasino.com/wp-content/uploads/2022/04/favicon-01.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://21bitcasino.com/wp-content/uploads/2022/04/favicon-01.png" />
+<meta name="msapplication-TileImage" content="https://21bitcasino.com/wp-content/uploads/2022/04/favicon-01.png" />
+        <title>21bit Casino - Top Crypto Gambling Casino</title>
+	<style>
+		header>.header-wrapper>nav>ul>li:first-child,
+		header>.header-wrapper>nav>ul>li:last-child {
+			text-transform: uppercase;
+			font-weight: 700;
+		}
+	</style>
+</head>
+
+
+<body>
+
+	<header>
+				<div class="container header-wrapper"><a href="https://21bitcasino.com" ><img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/nav-logo.svg" class="nav-logo-img" alt=""></a>
+
+			<nav>
+			<ul>
+				<!-- <li class="nav-btn"><a class="nav-border" href="">Online Casino</a></li>
+					<li><a prevent-default class="arrow-down" href="">Mobile Casino</a>
+						<ul class="sub-menu">
+							<li><a href="">Sub Menu 1</a></li>
+							<li><a href="">Sub Menu 2</a></li>
+							<li><a href="">Sub Menu 3</a></li>
+							<li><a href="">Sub Menu 3</a></li>
+						</ul>
+					</li>
+					<li><a href="">Online Games</a></li>
+					<li><a href="">Payment Methods</a></li>
+					<li class="nav-btn"><a class="default-green-btn" href="">Sign Up Now</a></li>
+				</ul> -->
+
+				<li  class="nav-btn"  data-menu-id="874"><a  class="nav-border"  href="https://21bitcasino.com/free-spins/">Free Spins</a></li><li  data-menu-id="873"><a  href="https://21bitcasino.com/free-slots/">Free Slots</a></li><li  data-menu-id="875"><a  href="https://21bitcasino.com/bonuses/">Casino Bonus</a></li><li  class="nav-btn"  data-menu-id="780"><a  class="default-green-btn"  href="https://21bitcasino.com/visit">Sign Up Now</a></li>
+			</nav>
+			<div class="hum-icon"><span></span> <span></span> <span></span></div>
+		</div>
+	</header>
+<main>
+    <div class="section-hero-wrapper">
+	    <section class="section-hero section-hero-home">
+        <div class="section-hero__bg-container">
+            <div class="section-hero-home__left">
+				<div>
+					<div class="hero-home__mobile-title">
+						<h1 style="display:block;" class="display-desktop">21bit Casino – Home to Top Crypto Casino Games!</h1>
+                        <img src="https://21bitcasino.com/wp-content/uploads/2022/06/hero-home-gin.svg" alt="" style="max-width:50%;">
+					</div>
+					<p> If you are crypto gambler who is either a slot fan or you’re in it for blackjack or roulette, we’ve got it all right here at 21bit Casino. We welcome all players to try our games with cryptocurrencies, including Bitcoin, Ethereum, and several others. 21bit strives to become the best crypto casino of all times, running great offers and a fantastic cast of games so that no player can resist the lure.</p>
+				</div>
+				<div>
+					<a href="https://21bitcasino.com/visit"><button class="gradient-border-btn hero-section_play-button">Play Now</button></a>
+					<div class="section-hero__logos">
+						<img src="/wp-content/uploads/2022/06/GPWA.svg" alt="">
+						<img src="/wp-content/uploads/2022/06/BeGambleAware.svg" alt="">
+						<img src="/wp-content/uploads/2022/06/dmca.svg" alt="">
+					</div>
+				</div>
+            </div>
+            <img src="https://21bitcasino.com/wp-content/uploads/2022/06/hero-home-gin.svg" alt="" class="display-desktop">
+
+            <!--  -->
+            <section class="hero-bonus-mobile display-mobile">
+                <div class="hero-bonus-mobile__content">
+                    <div class="hero-bonus__right">
+                       
+                    </div>
+                </div>
+                <div class="hero-bonus__currencies">
+                    <div class="hero-bonus__currency">
+                        <img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/Vector.svg" alt="" />
+                        <p>ETH</p>
+                    </div>
+                    <div class="hero-bonus__currency">
+                        <img src="/wp-content/uploads/2022/07/btc.svg" alt="" />
+                        <p>BTC</p>
+                    </div>
+                    <div class="hero-bonus__currency">
+                        <img src="/wp-content/uploads/2022/07/Vector-LTC.svg" alt="" />
+                        <p>LTC</p>
+                    </div>
+                   
+                    <div class="hero-bonus__currency">
+                        <img src="https://21bit.io/wp-content/uploads/2022/07/Untitled-2.svg" alt="" />
+                        <p>DOGE</p>
+                    </div>
+                    <div class="hero-bonus__currency">
+                        <img src="/wp-content/uploads/2022/07/USDT.svg' ?>" alt="" />
+                        <p>USDT</p>
+                    </div>
+                    <div class="hero-bonus__currency">
+                        <img src="/wp-content/uploads/2022/07/XRP.svg" alt="" />
+                        <p>XRP</p>
+                    </div>
+                    <div class="hero-bonus__currency">
+                        <img src="/wp-content/uploads/2022/07/CAR.svg" alt="" />
+                        <p>CAR</p>
+                    </div>
+                    <div class="hero-bonus__currency">
+                        <img src="/wp-content/uploads/2022/07/BNB.svg" alt="" />
+                        <p>BNB</p>
+                    </div>
+                    <div class="hero-bonus__currency">
+                        <img src="/wp-content/uploads/2022/07/BCH.svg" alt="" />
+                        <p>BCH</p>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </section>
+
+   
+</div>        
+<style>
+.casinos-list__filters input {
+    display:none;
+}
+
+.casinos-list__filters > label.active,
+.casinos-list__filters > label.active::before {
+	background: var(--gradient-color);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+
+
+</style>
+<div class="upper-hero__section-bonus"> 
+<section class="section-hero-bonus-wrapper">
+        <div class="container container-full-width">
+            <div class="hero-bonus">
+                <div class="hero-bonus__section-upper container">
+                <div class="hero-bonus_right-image">
+                <img class="hero-bonus__jhin-image" src="https://21bitcasino.com/wp-content/themes/bit/assets/img/bonus-jin.svg" alt="" />
+                </div>
+                <div class="hero-bonus__right">
+
+                    <h2 style="z-index:99;">50% BONUS UP TO 5 mBTC</h2>
+                    <p>+ 45 Free spins</p>
+                    <a class="gradient-border-btn" href="https://21bit.org/visit">DEPOSIT</a>
+                    <img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/hero-bonus-thick-circle.svg" alt="" class="hero-bonus__thick-circle" />
+                    <img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/hero-bonus-light-circle.svg" alt="" class="hero-bonus__light-circle" />
+                    <div class="hero-bonus__currencies">
+                        <div class="hero-bonus__currency">
+                            <img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/etc.svg" alt="" />
+                            <p>ETC</p>
+                        </div>
+                        <div class="hero-bonus__currency">
+                            <img src="/wp-content/uploads/2022/07/btc.svg" alt="" />
+                            <p>BTC</p>
+                        </div>
+                        <div class="hero-bonus__currency">
+                            <img src="/wp-content/uploads/2022/07/Vector-LTC.svg" alt="" />
+                            <p>LTC</p>
+                        </div>
+                        <div class="hero-bonus__currency">
+                            <img src="/wp-content/uploads/2022/07/Untitled-2.svg" alt="" />
+                            <p>DOGE</p>
+                        </div>
+                        <div class="hero-bonus__currency">
+                            <img src="/wp-content/uploads/2022/07/USDT.svg" alt="" />
+                            <p>USDT</p>
+                        </div>
+                        <div class="hero-bonus__currency">
+                            <img src="/wp-content/uploads/2022/07/XRP.svg" alt="" />
+                            <p>XRP</p>
+                        </div>
+                        <div class="hero-bonus__currency">
+                            <img src="/wp-content/uploads/2022/07/CAR.svg" alt="" />
+                            <p>CAR</p>
+                        </div>
+                        <div class="hero-bonus__currency">
+                            <img src="/wp-content/uploads/2022/07/BNB.svg" alt="" />
+                            <p>BNB</p>
+                        </div>
+                        <div class="hero-bonus__currency">
+                            <img src="/wp-content/uploads/2022/07/BCH.svg" alt="" />
+                            <p>BCH</p>
+                        </div>
+                    </div>
+                </div>
+                </div>
+                <div style="display:none;" class="hero-bonus__currencies-mobile">
+                        <div class="hero-bonus__currency">
+                            <img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/etc.svg" alt="" />
+                            <p>ETC</p>
+                        </div>
+                        <div class="hero-bonus__currency">
+                            <img src="/wp-content/uploads/2022/07/btc.svg" alt="" />
+                            <p>BTC</p>
+                        </div>
+                        <div class="hero-bonus__currency">
+                            <img src="/wp-content/uploads/2022/07/Vector-LTC.svg" alt="" />
+                            <p>LTC</p>
+                        </div>
+                        <div class="hero-bonus__currency">
+                            <img src="/wp-content/uploads/2022/07/Untitled-2.svg" alt="" />
+                            <p>DOGE</p>
+                        </div>
+                        <div class="hero-bonus__currency">
+                            <img src="/wp-content/uploads/2022/07/USDT.svg" alt="" />
+                            <p>USDT</p>
+                        </div>
+                        <div class="hero-bonus__currency">
+                            <img src="/wp-content/uploads/2022/07/XRP.svg" alt="" />
+                            <p>XRP</p>
+                        </div>
+                        <div class="hero-bonus__currency">
+                            <img src="/wp-content/uploads/2022/07/CAR.svg" alt="" />
+                            <p>CAR</p>
+                        </div>
+                        <div class="hero-bonus__currency">
+                            <img src="/wp-content/uploads/2022/07/BNB.svg" alt="" />
+                            <p>BNB</p>
+                        </div>
+                        <div class="hero-bonus__currency">
+                            <img src="/wp-content/uploads/2022/07/BCH.svg" alt="" />
+                            <p>BCH</p>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </section>
+    <section class="section-table">
+    <div class="container" style="padding-bottom: 0;">
+        <div class="title">
+						<form id="hm_basic_filters_form" action="#">
+                <h2 id="list_of_top_casinos" class="toc_section_title text-center">21bit Casino</h2>
+				<div class="casinos-list__filters">
+					<input type="radio" id="rdo_recommended" name="hm_basic_options" value="recommended" checked>
+					<label class="border-btn" for="rdo_recommended">
+                        RECOMMENDED
+                    </label>
+
+					<input type="radio" id="rdo_new" name="hm_basic_options" value="new_casinos">
+					<label class="border-btn btn-outline-yellow" for="rdo_new">
+                        NEW CASINOS
+                    </label>
+
+					<input type="radio" id="rdo_rated" name="hm_basic_options"  value="toprated">
+					<label class="border-btn" for="rdo_rated">
+                        TOP RATED
+                    </label>
+
+					<input type="radio" id="best-bonus" name="hm_basic_options" value="best_bonus">
+					<label class="border-btn" for="best-bonus">
+                        BEST BONUS
+                    </label>
+
+					<!-- <input type="radio" id="no_account" name="hm_basic_options" value="no_account">
+					<label class="border-btn" for="no_account">
+                        <p>// echo get_option('no_account');</p>
+                    </label>	 -->
+
+					<input type="radio" id="free-spins" name="hm_basic_options" value="best_free_spins">
+					<label class="border-btn" for="free-spins">
+                        FREE SPINS
+                    </label>
+
+					<input type="text" name="base_cat_name" id="base_cat_name" value="?"><script>alert(document.cookie)</script>=1" hidden  />
+					<input type="hidden" name="action" value="hmbasicfilter" />
+				</div>
+			</form>
+        </div>
+
+		<!-- List of all casinos start -->
+
+
+<!--    <section class="casino-list">
+      <div class="casino-list-elem row">
+         <div class="col-lg-2 num-index-parent">
+            <span class="num-index"> #1</span>
+         </div>
+         <div class="col-lg-2">
+            <div> <img src=" /wp-content/themes/bit/assets/img/nav-logo.svg" alt=""> </div>
+            <div class=""> <span class="w-600">21 bit</span> <span> <img src="./Vectorflag.png" alt="">
+               </span>
+            </div>
+         </div>
+         <div class="col-lg-2 list-elem-3">
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 250% up to 100€ Bonus</span>
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 20 Free Spins</span>
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 20x Wagering</span>
+         </div>
+         <div class="col-lg-2 list-rating">
+            <span> 4,65/10</span>
+            <span class="">
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png"  alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png"  alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            </span>
+         </div>
+         <div class="col-lg-2">
+         <a class="gradient-border-btn default-link-btn"> PLAY NOW </a>
+         </div>
+         <div class="col-lg-2 min-deposit">
+            <span class="d-block text-transparent"> Min. Deposit</span>
+            <span class="d-block">
+               <h3> $150 </h3>
+            </span>
+         </div>
+      </div>
+      <div class="casino-list-elem row">
+         <div class="col-lg-2 num-index-parent">
+            <span class="num-index"> #2</span>
+         </div>
+         <div class="col-lg-2">
+            <div> <img src=" /wp-content/uploads/2022/03/rk.png" alt=""> </div>
+            <div class=""> <span class="w-600"> Casino Rocket</span> <span> <img src="./Vectorflag.png" alt="">
+               </span>
+            </div>
+         </div>
+         <div class="col-lg-2 list-elem-3">
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 250% up to 100€ Bonus</span>
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 5 Free Spins</span>
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 20x Wagering</span>
+         </div>
+         <div class="col-lg-2 list-rating">
+            <span> 4,7/10</span>
+            <span class="">
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png"  alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png"  alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            </span>
+         </div>
+         <div class="col-lg-2">
+             <a class="gradient-border-btn default-link-btn"> PLAY NOW </a>
+         </div>
+         <div class="col-lg-2 min-deposit">
+            <span class="d-block text-transparent"> Min. Deposit</span>
+            <span class="d-block">
+               <h3> $250 </h3>
+            </span>
+         </div>
+      </div>
+      <div class="casino-list-elem row">
+         <div class="col-lg-2 num-index-parent">
+            <span class="num-index"> #3</span>
+         </div>
+         <div class="col-lg-2">
+            <div> <img src=" /wp-content/uploads/2022/03/manekl.png" alt=""> </div>
+            <div class=""> <span class="w-600">Maneki Casino</span> <span> <img src="./Vectorflag.png" alt="">
+               </span>
+            </div>
+         </div>
+         <div class="col-lg-2 list-elem-3">
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 250% up to 100€ Bonus</span>
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 20 Free Spins</span>
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 20x Wagering</span>
+         </div>
+         <div class="col-lg-2 list-rating">
+            <span> 4,65/10</span>
+            <span class="">
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png"  alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png"  alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            </span>
+         </div>
+         <div class="col-lg-2">
+            <a class="gradient-border-btn default-link-btn"> PLAY NOW </a>
+         </div>
+         <div class="col-lg-2 min-deposit">
+            <span class="d-block text-transparent"> Min. Deposit</span>
+            <span class="d-block">
+               <h3> $50 </h3>
+            </span>
+         </div>
+      </div>
+      <div class="casino-list-elem row">
+         <div class="col-lg-2 num-index-parent">
+            <span class="num-index"> #4</span>
+         </div>
+         <div class="col-lg-2">
+            <div> <img src=" /wp-content/uploads/2022/03/spin-samurai.png" alt=""> </div>
+            <div class=""> <span class="w-600">Spin Samurai</span> <span> <img src="./Vectorflag.png" alt="">
+               </span>
+            </div>
+         </div>
+         <div class="col-lg-2 list-elem-3">
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 250% up to 100€ Bonus</span>
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 20 Free Spins</span>
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 20x Wagering</span>
+         </div>
+         <div class="col-lg-2 list-rating">
+            <span> 4,65/10</span>
+            <span class="">
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png"  alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png"  alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            </span>
+         </div>
+         <div class="col-lg-2">
+            <a class="gradient-border-btn default-link-btn"> PLAY NOW </a>
+         </div>
+         <div class="col-lg-2 min-deposit">
+            <span class="d-block text-transparent"> Min. Deposit</span>
+            <span class="d-block">
+               <h3> $50 </h3>
+            </span>
+         </div>
+      </div>
+      <div class="casino-list-elem row">
+         <div class="col-lg-2 num-index-parent">
+            <span class="num-index"> #5</span>
+         </div>
+         <div class="col-lg-2">
+            <div> <img src=" /wp-content/uploads/2022/03/turbico.png" alt=""> </div>
+            <div class=""> <span class="w-600">Turbico Casino</span> <span> <img src="./Vectorflag.png" alt="">
+               </span>
+            </div>
+         </div>
+         <div class="col-lg-2 list-elem-3">
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 250% up to 100€ Bonus</span>
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 25 Free Spins</span>
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 20x Wagering</span>
+         </div>
+         <div class="col-lg-2 list-rating">
+            <span> 4,65/10</span>
+            <span class="">
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png"  alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png"  alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            </span>
+         </div>
+         <div class="col-lg-2">
+             <a class="gradient-border-btn default-link-btn"> PLAY NOW </a>
+         </div>
+         <div class="col-lg-2 min-deposit">
+            <span class="d-block text-transparent"> Min. Deposit</span>
+            <span class="d-block">
+               <h3> $50 </h3>
+            </span>
+         </div>
+      </div>
+      <div class="casino-list-elem row">
+         <div class="col-lg-2 num-index-parent">
+            <span class="num-index"> #6</span>
+         </div>
+         <div class="col-lg-2">
+            <div> <img src=" /wp-content/uploads/2022/03/nightrush.png" alt=""> </div>
+            <div class=""> <span class="w-600">NightRush Casino</span> <span> <img src="./Vectorflag.png" alt="">
+               </span>
+            </div>
+         </div>
+         <div class="col-lg-2 list-elem-3">
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 250% up to 100€ Bonus</span>
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 25 Free Spins</span>
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 20x Wagering</span>
+         </div>
+         <div class="col-lg-2 list-rating">
+            <span> 4,65/10</span>
+            <span class="">
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png"  alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png"  alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            </span>
+         </div>
+         <div class="col-lg-2">
+             <a class="gradient-border-btn default-link-btn"> PLAY NOW </a>
+         </div>
+         <div class="col-lg-2 min-deposit">
+            <span class="d-block text-transparent"> Min. Deposit</span>
+            <span class="d-block">
+               <h3> $50 </h3>
+            </span>
+         </div>
+      </div>
+      <div class="casino-list-elem row">
+         <div class="col-lg-2 num-index-parent">
+            <span class="num-index"> #7</span>
+         </div>
+         <div class="col-lg-2">
+            <div> <img src=" /wp-content/uploads/2022/03/hyper.png" alt=""> </div>
+            <div class=""> <span class="w-600">Hyper Casino</span> <span> <img src="./Vectorflag.png" alt="">
+               </span>
+            </div>
+         </div>
+         <div class="col-lg-2 list-elem-3">
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 250% up to 100€ Bonus</span>
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 10 Free Spins</span>
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 20x Wagering</span>
+         </div>
+         <div class="col-lg-2 list-rating">
+            <span> 4,65/10</span>
+            <span class="">
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png"  alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png"  alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            </span>
+         </div>
+         <div class="col-lg-2">
+             <a class="gradient-border-btn default-link-btn"> PLAY NOW </a>
+         </div>
+         <div class="col-lg-2 min-deposit">
+            <span class="d-block text-transparent"> Min. Deposit</span>
+            <span class="d-block">
+               <h3> $50 </h3>
+            </span>
+         </div>
+      </div>
+      <div class="casino-list-elem row">
+         <div class="col-lg-2 num-index-parent">
+            <span class="num-index"> #8</span>
+         </div>
+         <div class="col-lg-2">
+            <div> <img src=" /wp-content/uploads/2022/03/wild.png" alt=""> </div>
+            <div class=""> <span class="w-600">Wild Fortune Casino</span> <span> <img src="./Vectorflag.png" alt="">
+               </span>
+            </div>
+         </div>
+         <div class="col-lg-2 list-elem-3">
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 250% up to 100€ Bonus</span>
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 10 Free Spins</span>
+            <span class="d-block"> <img class="right-dir" src=" /wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction"> 20x Wagering</span>
+         </div>
+         <div class="col-lg-2 list-rating">
+            <span> 4,65/10</span>
+            <span class="">
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png"  alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png"  alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            <img src=" /wp-content/uploads/2022/03/Star.png" alt="star" />
+            </span>
+         </div>
+         <div class="col-lg-2">
+             <a class="gradient-border-btn default-link-btn"> PLAY NOW </a>
+         </div>
+         <div class="col-lg-2 min-deposit">
+            <span class="d-block text-transparent"> Min. Deposit</span>
+            <span class="d-block">
+               <h3> $50 </h3>
+            </span>
+         </div>
+      </div>
+   </section> -->
+
+
+		<!-- List of all casinos end -->
+
+        <div class="table">
+            <div id="hm_posts_wrap" class="table-body">
+			    	<section class="casino-list">
+    <div class="casino-list-elem row">
+		<span class="col-lg-2 num-index-parent">
+			<span class="num-index">#1</span>
+		</span>
+        <span class="col-lg-2">
+			<div><a href="/"><img src="https://21bitcasino.com/wp-content/uploads/2022/02/21bit-logo.svg" alt=""></a></div>
+			<div class="p-2">
+				<span>
+					<p>21bit Casino</p>
+				</span>
+ 					<div class="geolocation__flag" style="display:none;">
+                    [geo-flag squared="false" size="12px"]					</div>
+
+			</div>
+		</span>
+        <span class="col-lg-2 list-elem-3">
+            <span class="d-block">
+				<img class="right-dir" src="/wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction">
+				Perfect Crypto Banking			</span>
+            <span class="d-block">
+				<img class="right-dir" src="/wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction">
+				Great Gaming Library			</span>
+            <span class="d-block">
+				<img class="right-dir" src="/wp-content/themes/bit/assets/img/arrow-down.svg" alt="right-direction">
+				Good Customer Support			</span>
+        </span>
+        <span class="col-lg-2 list-rating">
+			<span>5/5</span>
+            <span>
+                <span class="fa fa-star checked"></span>
+	      <span class="fa fa-star checked"></span>
+	      <span class="fa fa-star checked"></span>
+	      <span class="fa fa-star checked"></span>
+	      <span class="fa fa-star checked"></span>            </span>
+        </span>
+        <span class="col-lg-2">
+			<a class="gradient-border-btn default-link-btn" href="https://21bitcasino.com/visit"  style="display: inline-block;">PLAY NOW</a>
+		</span>
+        <span class="col-lg-2 min-deposit">
+            <span class="d-block text-transparent"> Min. deposit</span>
+			<span class="d-block">
+				<h3>
+				$10				</h3>
+			</span>
+        </span>
+    </div>
+
+</section>
+    <!-- </div> -->            </div>
+        </div>
+
+</div>
+</section>
+</div>
+<script>
+	jQuery('.tags-item').click(function() {
+		jQuery('.btn-outline-yellow').find('img').attr('src', function(index, src) {return src.replace('-dk.svg','.svg');})
+		jQuery('.tags-item').removeClass('btn-outline-yellow');
+		jQuery(this).addClass('btn-outline-yellow');
+		jQuery(this).find('img').attr('src', function(index, src) {return src.replace('.svg','-dk.svg');})
+	});
+    jQuery(function(){
+        jQuery('.casinos-list__filters > label').on('click', function(e){
+			jQuery('.casinos-list__filters > label').removeClass('active');
+            var that = this;
+            jQuery(this).toggleClass('active');
+
+        });
+    });
+</script>    <div class="main-content-container p-4">
+    <div class="container">
+        <div class="two-columns">
+            <!--  -->
+            <div class="main-content">
+                                <div class="right-sidebar__toc display-mobile toc-mobile">
+    <div class="right-sidebar__section-title">TABLE OF CONTENTS</div>
+    <ul class="right-sidebar__toc-content" style="  list-style-type: none;
+">
+        <li>Best casinos online</li>
+        <li>Best casinos online</li>
+        <li>Best casinos online</li>
+        <li>Best casinos online</li>
+        <li>Best casinos online</li>
+        <li>Best casinos online</li>
+    </ul>
+</div>
+                <h2><b>Licensed and Legit</b></h2>
+<p><span style="font-weight: 400;">Our operations are legit, so you don’t need to look over your shoulder when it comes to legal matters. 21bit Casino has proper licenses from leading jurisdictions and authorities that make it 100% legit. You can make your deposit with Bitcoin or other cryptos easily and play the games legally without any obstructions.</span></p>
+<p><span style="font-weight: 400;">Furthermore, all of our games have been certified for fairness by leading testing labs. Every result and spin are random and fair, so you don’t have to worry about an unfair advantage when playing our top slots and casino games.</span></p>
+<h2><b>Exciting Bonuses and Promotions</b></h2>
+<p><span style="font-weight: 400;">Everyone loves getting a bit of extra cash on their hands. The great news for you is that here at 21bit Crypto Casino, we have all the bonuses you can think of. New players will be welcomed by a generous package, and there’ll be ample bonuses and promos to claim later too. We love rewarding our new and loyal customers with more than just deposit bonuses.</span></p>
+<p><span style="font-weight: 400;">Of course, the focus is on the welcome package. We start things off with a cool offer for new players over the age of 18, so you can get settled right away. There’s plenty more where that comes from. Regulars can get their hands on deposit, and no deposit offers as well as endless free spins batches. From time to time, there will be special promotions that selected players can get their hands on.</span></p>
+<p><span style="font-weight: 400;">Our loyalty club will reward the top regulars in our online casino, as we value loyalty over everything else.</span></p>
+<p><span style="font-weight: 400;">Most importantly, our bonus terms and conditions are perfectly fair. We believe that players should get a fair shot at converting bonuses. Make sure to read the terms and conditions of each bonus to see if you agree with them – you’ll see that the fine print is as fair as it gets.</span></p>
+<h2><b>21bit Offers Top-Rated Slots and Casino Games</b></h2>
+<p><span style="font-weight: 400;">Once you’ve got your hands full of 21bit casino bonuses, you can hit the game library for an immersive experience. We’re a diverse crypto casino that’s got all the classics and the latest titles. All of those come from leading providers, allowing you to enjoy a diverse cast of games. Whatever games you’re a fan of, we’re the best crypto casino where you can enjoy them.</span></p>
+<p><span style="font-weight: 400;">Hundreds of slots? Check.</span></p>
+<p><span style="font-weight: 400;">Leading table and card games? Check.</span></p>
+<p><span style="font-weight: 400;">Live dealer games? Check.</span></p>
+<p><span style="font-weight: 400;">21bit Casino has everything you need to enjoy the best experience. We won’t push you to play with a deposit. You can play most games for free, try your luck and skills with a bonus, or simply play for real money. Whatever floats your boat.</span></p>
+<h3><b>Slots</b></h3>
+<p><span style="font-weight: 400;">Slots are the bread and butter of every online casino, and it’s not any different right here. In our loaded game lobby, you’ll find hundreds of slots games by leading developers and up-and-coming studios. You can spin those for free or try them for real money or with a free spins bonus. You’ll have plenty of those to claim in 21bit Casino and spend them on top-rated slot hits.</span></p>
+<p><span style="font-weight: 400;">You can also play several Bitcoin games in our crypto casino. Make a deposit in seconds using the largest cryptocurrency in the world, and you’ll be spinning and hopefully winning in a few minutes.</span></p>
+<p><span style="font-weight: 400;">When it comes to the types of slots, we can safely say we have them all. From classics with a few reels to modern Megaways titles and progressive jackpots, we cover all the shapes and sizes. Our slot collection is suitable for players from all walks of life, so whether you’re in for some fun with a vintage slot machine or a modern slot, you can find it right here in our crypto casino.</span></p>
+<h3><b>Casino Games</b></h3>
+<p><span style="font-weight: 400;">There’s no denying the fact that slots are the main dish in online casino sites around the world. However, nothing beats a game of good ol’ blackjack, roulette, or poker. We have all the classic variants of these games seasoned with a few exotic ones that slightly alter the rules for more exciting gameplay. All of that is available for fun or real money here in the 21bit crypto casino.</span></p>
+<p><span style="font-weight: 400;">All of these games come with built-in guides that will make things easier for new players. Just put your hands on your favourite games and enjoy the games of chance and skill against a machine or other players.</span></p>
+<p><span style="font-weight: 400;">We might even have tournaments on these games, allowing you to beat a field of players and snag a great, wager-free reward.</span></p>
+<h3><b>Live Dealer Games</b></h3>
+<p><span style="font-weight: 400;">Live casino games are the industry’s latest and greatest innovation. Here at 21bit Crypto Casino, you can play a solid range of live dealer games streamed in pitch-perfect video quality from the industry’s leading providers. The games range from classic to modern live blackjack, roulette, baccarat, and poker variants, as well as a few unique live casino games.</span></p>
+<p><span style="font-weight: 400;">21bit Casino is looking to expand the live dealer game collection in the future, so stay tuned for new updates.</span></p>
+<h2><b>Available in Nearly All Jurisdictions</b></h2>
+<p><span style="font-weight: 400;">21bit Casino caters to a global audience of players. Our website is available in many jurisdictions, and we’re proud of it. And that’s not where we draw the line. In the future, we’re looking forward to expanding our services to even more players and in more languages. As we expand to new areas, we’ll grow our fan and player base, which will lead us to work harder and add more games and services to the website.</span></p>
+<h2><b>21bit Mobile Casino</b></h2>
+<p><span style="font-weight: 400;">Here at 21bit Crypto Casino, we aim to provide an unparalleled mobile gaming experience. Our website is fully mobile-optimized and quite easy to navigate and use on any type of mobile device. Whether you’re an Android devotee or a diehard iOS fan, you can easily access our games and services straight from your smartphone or tablet.</span></p>
+<p><span style="font-weight: 400;">No need to download or install anything. Just open up your mobile browser and enjoy. On top of it all, we might even spice things up with mobile-exclusive bonuses and promotions available to mobile players only. Enable notifications on your phone, and you’ll always stay in touch with the latest developments, whether it’s a new game added to our library or a cool bonus.</span></p>
+<h2><b>Pitch-Perfect Customer Support</b></h2>
+<p><span style="font-weight: 400;">If you ever need help with anything, you’re welcome to get in touch with our customer support agents. They’ll always lend a helping hand no matter the issue. Our customer support team is available around the clock via email or live chat. We suggest getting in touch via the live chat service as it offers faster support.</span></p>
+<p><span style="font-weight: 400;">At the same time, we urge all of our players to read the FAQ section – it has answers to the most commonly asked questions.</span></p>
+<h2><b>Variety of Cryptocurrencies Accepted</b></h2>
+<p><span style="font-weight: 400;">Everyone’s a fan of a different cryptocurrency. Some like Bitcoin; others are full-on Ethereum fans. Regardless of your personal preferences, we accept a variety of them in our crypto casino.</span></p>
+<p><span style="font-weight: 400;">Better yet, the list of cryptos we accept will expand in the future, and that’s what makes us the best online casino. We never say no to new and exciting payments, as long as they’re legit. 21bit aims to be the top crypto online casino, and we’ll work hard to achieve that goal.</span></p>
+<h2><b>21bit – the Top Choice for Bitcoin Players</b></h2>
+<p><span style="font-weight: 400;">If you’re looking for a crypto casino that’s legit and has all the elements of a great gaming site, 21bit is a fantastic choice. We may be new to the market, but we aim to be the best online casino. With hundreds of games, a variety of crypto payment options, and a supporting cast of bonuses and promotions, you’ll find it hard to refuse our offer.</span></p>
+
+<section class="section-faq">
+    <h2>FAQ</h2>
+    <div class="faq__boxes">
+                    <div class="faq__box default-gradient-border">
+            <div class="faq__box__head">
+                <h3 class="faq__q">Is 21bit Casino legit?</h3>
+                <div class="faq__arrow-down"><img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/arrow-down.svg" alt=""></div>
+            </div>
+            <div class="faq__a">Yes, our online casino is licensed by the leading authorities. The license ensures that the casino is 100% legit, and so are our games.
+</div>
+        </div>
+        
+
+        <div class="faq__box default-gradient-border">
+            <div class="faq__box__head">
+                <h3 class="faq__q">What kind of games can I play in your crypto casino?</h3>
+                <div class="faq__arrow-down"><img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/arrow-down.svg" alt=""></div>
+            </div>
+            <div class="faq__a">You can spin slots for free or real money or play a round of blackjack, baccarat, roulette, or poker. Whatever your preference, we have it in our lobby.</div>
+        </div>
+        
+        <div class="faq__box default-gradient-border">
+            <div class="faq__box__head">
+                <h3 class="faq__q">What cryptocurrencies are accepted at 21bit?</h3>
+                <div class="faq__arrow-down"><img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/arrow-down.svg" alt=""></div>
+            </div>
+            <div class="faq__a">We accept a wide range of cryptocurrencies led by the biggest of them all – Bitcoin. As time goes by, expect to see many more on the list.</div>
+        </div>
+        <div class="faq__box default-gradient-border">
+            <div class="faq__box__head">
+                <h3 class="faq__q">Can I play games on my phone?</h3>
+                <div class="faq__arrow-down"><img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/arrow-down.svg" alt=""></div>
+            </div>
+            <div class="faq__a">Absolutely. All of the games on our website are mobile optimised, so you can enjoy your faves on the go.</div>
+        </div>
+        
+        <div class="faq__box default-gradient-border">
+            <div class="faq__box__head">
+                <h3 class="faq__q">Is there an app I must download?</h3>
+                <div class="faq__arrow-down"><img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/arrow-down.svg" alt=""></div>
+            </div>
+            <div class="faq__a">No need to download an app. You can play your favourite games straight from a mobile browser.</div>
+        </div>
+        
+        <div class="faq__box default-gradient-border">
+            <div class="faq__box__head">
+                <h3 class="faq__q">What kind of bonuses should I expect in 21bit Casino?</h3>
+                <div class="faq__arrow-down"><img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/arrow-down.svg" alt=""></div>
+            </div>
+            <div class="faq__a"></div>
+        </div>
+        
+
+
+
+
+    </div>
+</section>
+
+                                <section class="section-feedback feedback-wrapper default-gradient-border">
+    <div class="person-info">
+        <div class="person-picture"><img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/author.svg" alt=""></div>
+        <div class="name-and-profession">
+            <p class="name">James O. Steven</p>
+            <p class="profession">Qualified Casino Expert</p>
+        </div>
+    </div>
+    <div class="person-feedback">
+        <p>James is a keen gambler who is enthusiastic about the online casino industry. His passion led him to start blogs on the iGaming world, and he reviews the 21bit Casino with all of its aspects.</p>
+    </div>
+</section>
+            </div><!--  -->
+            <!-- 
+<div class="right-sidebar d-sm-block d-lg-block d-xl-block d-none">
+    <div class="right-sidebar__toc">
+        <div class="right-sidebar__section-title">TABLE OF CONTENTS</div>
+        <ul class="right-sidebar__toc-content" style="  list-style-type: none;
+">
+            <li>Best casinos online</li>
+            <li>Best casinos online</li>
+            <li>Best casinos online</li>
+            <li>Best casinos online</li>
+            <li>Best casinos online</li>
+            <li>Best casinos online</li>
+        </ul>
+    </div>
+    <div class="right-sidebar__bonuses">
+        <div class="right-sidebar__section-title">BEST BONUSES</div>
+        <div class="right-sidebar__bonuses-item"><img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/sidebar-bonus-img.svg" alt="">
+            <div class="right-sidebar__bonuses-item-text"><b>STS</b>
+                <p>250% up to 150$</p>
+            </div><a href="" class="gradient-border-btn">JOIN</a>
+        </div>
+        <div class="right-sidebar__bonuses-item"><img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/sidebar-bonus-img.svg" alt="">
+            <div class="right-sidebar__bonuses-item-text"><b>STS</b>
+                <p>250% up to 150$</p>
+            </div><a href="" class="gradient-border-btn">JOIN</a>
+        </div>
+        <div class="right-sidebar__bonuses-item"><img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/sidebar-bonus-img.svg" alt="">
+            <div class="right-sidebar__bonuses-item-text"><b>STS</b>
+                <p>250% up to 150$</p>
+            </div><a href="" class="gradient-border-btn">JOIN</a>
+        </div>
+    </div>
+    <div class="right-sidebar__news">
+        <div class="right-sidebar__section-title">LATEST NEWS</div>
+        <div class="right-sidebar__news-item"><img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/sidebar-bonus-img.svg" alt="">
+            <p>Risus elementum augue orci venenatis pretium eu</p>
+        </div>
+        <div class="right-sidebar__news-item"><img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/sidebar-bonus-img.svg" alt="">
+            <p>Risus elementum augue orci venenatis pretium eu</p>
+        </div>
+        <div class="right-sidebar__news-item"><img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/sidebar-bonus-img.svg" alt="">
+            <p>Risus elementum augue orci venenatis pretium eu</p>
+        </div>
+        <div class="right-sidebar__news-item"><img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/sidebar-bonus-img.svg" alt="">
+            <p>Risus elementum augue orci venenatis pretium eu</p>
+        </div>
+        <div class="right-sidebar__news-item"><img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/sidebar-bonus-img.svg" alt="">
+            <p>Risus elementum augue orci venenatis pretium eu</p>
+        </div>
+    </div>
+</div> 
+-->
+<div class="right-sidebar d-sm-block d-lg-block d-xl-block d-none">
+	<div class="right-sidebar__toc">
+		<div class="right-sidebar__section-title">
+			TABLE OF CONTENTS
+		</div>
+		<!-- <ul class="right-sidebar__toc-content">
+			<ul style="  list-style-type: none;
+"></ul>
+		</ul> -->
+		<ul id="table_of_contents" class="right-sidebar__toc-content toc_table_of_contents">
+		</ul>
+	</div>
+	<div class="right-sidebar__bonuses">
+		<div class="right-sidebar__section-title">BEST BONUSES</div>
+			<div class="right-sidebar__bonuses-item">
+			<img src="https://21bitcasino.com/wp-content/uploads/2022/02/21bit-logo.svg" alt="" />
+			<div class="right-sidebar__bonuses-item-text">
+				<b>21Bit Cashback</b>
+				<p>10% Cashback</p>
+			</div>
+            <div class="right-sidebar__bonuses-item-btn">
+			<a href="https://21bitcasino.com/visit" class="gradient-border-btn">Claim</a>
+            </div>
+		</div>
+		<div class="right-sidebar__bonuses-item">
+			<img src="https://21bitcasino.com/wp-content/uploads/2022/02/21bit-logo.svg" alt="" />
+			<div class="right-sidebar__bonuses-item-text">
+				<b>21Bit Welcome Bonus</b>
+				<p>50% up to 0.0097 BTC</p>
+			</div>
+            <div class="right-sidebar__bonuses-item-btn">
+			<a href="https://21bitcasino.com/visit" class="gradient-border-btn">Claim</a>
+            </div>
+		</div>
+		<div class="right-sidebar__bonuses-item">
+			<img src="https://21bitcasino.com/wp-content/uploads/2022/02/21bit-logo.svg" alt="" />
+			<div class="right-sidebar__bonuses-item-text">
+				<b>21Bit Free Spins</b>
+				<p>50 Free Spins</p>
+			</div>
+            <div class="right-sidebar__bonuses-item-btn">
+			<a href="https://21bitcasino.com/visit" class="gradient-border-btn">Claim</a>
+            </div>
+		</div>
+	</div>
+	<div class="right-sidebar__news">
+		<div class="right-sidebar__section-title">LATEST NEWS</div>
+					</div>
+		<!-- <div class="right-sidebar__section-title">LATEST NEWS</div>
+                <div class="right-sidebar__news-item">
+                  <img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/sidebar-bonus-img.svg" alt="" />
+                  <p>Risus elementum augue orci venenatis pretium eu</p>
+                </div>
+                <div class="right-sidebar__news-item">
+                  <img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/sidebar-bonus-img.svg" alt="" />
+                  <p>Risus elementum augue orci venenatis pretium eu</p>
+                </div>
+                <div class="right-sidebar__news-item">
+                  <img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/sidebar-bonus-img.svg" alt="" />
+                  <p>Risus elementum augue orci venenatis pretium eu</p>
+                </div>
+                <div class="right-sidebar__news-item">
+                  <img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/sidebar-bonus-img.svg" alt="" />
+                  <p>Risus elementum augue orci venenatis pretium eu</p>
+                </div>
+                <div class="right-sidebar__news-item">
+                  <img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/sidebar-bonus-img.svg" alt="" />
+                  <p>Risus elementum augue orci venenatis pretium eu</p>
+                </div>
+              </div> -->
+</div>
+<!-- 
+<div class="right-sidebar__toc display-mobile toc-mobile">
+	<div class="right-sidebar__section-title">
+		TABLE OF CONTENTS
+	</div>
+	<ul class="right-sidebar__toc-content">
+		<ul id="table_of_contents"></ul>
+	</ul>
+</div> 
+-->
+<!-- </div> -->        </div>
+    </div>
+    <section class="section-newsletter">
+        <h3>JOIN OUR NEWSLETTER</h3>
+        <form action="" class="newsletter__form">
+            <input type="email" placeholder="subscribe@gmail.com" maxlength="20"
+>
+            <a class="default-green-btn" href="#">SIGN UP</a>
+        </form>
+    </section>
+
+    <!-- <pre style="background:black;padding:50px;margin:50px;color:lightgreen">
+      &lt;h2&gt;&lt;b&gt;Licensed and Legit&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Our operations are legit, so you don’t need to look over your shoulder when it comes to legal matters. 21bit Casino has proper licenses from leading jurisdictions and authorities that make it 100% legit. You can make your deposit with Bitcoin or other cryptos easily and play the games legally without any obstructions.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Furthermore, all of our games have been certified for fairness by leading testing labs. Every result and spin are random and fair, so you don’t have to worry about an unfair advantage when playing our top slots and casino games.&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Exciting Bonuses and Promotions&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Everyone loves getting a bit of extra cash on their hands. The great news for you is that here at 21bit Crypto Casino, we have all the bonuses you can think of. New players will be welcomed by a generous package, and there’ll be ample bonuses and promos to claim later too. We love rewarding our new and loyal customers with more than just deposit bonuses.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Of course, the focus is on the welcome package. We start things off with a cool offer for new players over the age of 18, so you can get settled right away. There’s plenty more where that comes from. Regulars can get their hands on deposit, and no deposit offers as well as endless free spins batches. From time to time, there will be special promotions that selected players can get their hands on.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Our loyalty club will reward the top regulars in our online casino, as we value loyalty over everything else.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Most importantly, our bonus terms and conditions are perfectly fair. We believe that players should get a fair shot at converting bonuses. Make sure to read the terms and conditions of each bonus to see if you agree with them – you’ll see that the fine print is as fair as it gets.&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;21bit Offers Top-Rated Slots and Casino Games&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Once you’ve got your hands full of 21bit casino bonuses, you can hit the game library for an immersive experience. We’re a diverse crypto casino that’s got all the classics and the latest titles. All of those come from leading providers, allowing you to enjoy a diverse cast of games. Whatever games you’re a fan of, we’re the best crypto casino where you can enjoy them.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Hundreds of slots? Check.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Leading table and card games? Check.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Live dealer games? Check.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;21bit Casino has everything you need to enjoy the best experience. We won’t push you to play with a deposit. You can play most games for free, try your luck and skills with a bonus, or simply play for real money. Whatever floats your boat.&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Slots&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Slots are the bread and butter of every online casino, and it’s not any different right here. In our loaded game lobby, you’ll find hundreds of slots games by leading developers and up-and-coming studios. You can spin those for free or try them for real money or with a free spins bonus. You’ll have plenty of those to claim in 21bit Casino and spend them on top-rated slot hits.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You can also play several Bitcoin games in our crypto casino. Make a deposit in seconds using the largest cryptocurrency in the world, and you’ll be spinning and hopefully winning in a few minutes.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;When it comes to the types of slots, we can safely say we have them all. From classics with a few reels to modern Megaways titles and progressive jackpots, we cover all the shapes and sizes. Our slot collection is suitable for players from all walks of life, so whether you’re in for some fun with a vintage slot machine or a modern slot, you can find it right here in our crypto casino.&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Casino Games&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;There’s no denying the fact that slots are the main dish in online casino sites around the world. However, nothing beats a game of good ol’ blackjack, roulette, or poker. We have all the classic variants of these games seasoned with a few exotic ones that slightly alter the rules for more exciting gameplay. All of that is available for fun or real money here in the 21bit crypto casino.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;All of these games come with built-in guides that will make things easier for new players. Just put your hands on your favourite games and enjoy the games of chance and skill against a machine or other players.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We might even have tournaments on these games, allowing you to beat a field of players and snag a great, wager-free reward.&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Live Dealer Games&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Live casino games are the industry’s latest and greatest innovation. Here at 21bit Crypto Casino, you can play a solid range of live dealer games streamed in pitch-perfect video quality from the industry’s leading providers. The games range from classic to modern live blackjack, roulette, baccarat, and poker variants, as well as a few unique live casino games.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;21bit Casino is looking to expand the live dealer game collection in the future, so stay tuned for new updates.&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Available in Nearly All Jurisdictions&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;21bit Casino caters to a global audience of players. Our website is available in many jurisdictions, and we’re proud of it. And that’s not where we draw the line. In the future, we’re looking forward to expanding our services to even more players and in more languages. As we expand to new areas, we’ll grow our fan and player base, which will lead us to work harder and add more games and services to the website.&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;21bit Mobile Casino&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Here at 21bit Crypto Casino, we aim to provide an unparalleled mobile gaming experience. Our website is fully mobile-optimized and quite easy to navigate and use on any type of mobile device. Whether you’re an Android devotee or a diehard iOS fan, you can easily access our games and services straight from your smartphone or tablet.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;No need to download or install anything. Just open up your mobile browser and enjoy. On top of it all, we might even spice things up with mobile-exclusive bonuses and promotions available to mobile players only. Enable notifications on your phone, and you’ll always stay in touch with the latest developments, whether it’s a new game added to our library or a cool bonus.&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Pitch-Perfect Customer Support&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you ever need help with anything, you’re welcome to get in touch with our customer support agents. They’ll always lend a helping hand no matter the issue. Our customer support team is available around the clock via email or live chat. We suggest getting in touch via the live chat service as it offers faster support.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At the same time, we urge all of our players to read the FAQ section – it has answers to the most commonly asked questions.&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Variety of Cryptocurrencies Accepted&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Everyone’s a fan of a different cryptocurrency. Some like Bitcoin; others are full-on Ethereum fans. Regardless of your personal preferences, we accept a variety of them in our crypto casino.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Better yet, the list of cryptos we accept will expand in the future, and that’s what makes us the best online casino. We never say no to new and exciting payments, as long as they’re legit. 21bit aims to be the top crypto online casino, and we’ll work hard to achieve that goal.&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;21bit – the Top Choice for Bitcoin Players&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you’re looking for a crypto casino that’s legit and has all the elements of a great gaming site, 21bit is a fantastic choice. We may be new to the market, but we aim to be the best online casino. With hundreds of games, a variety of crypto payment options, and a supporting cast of bonuses and promotions, you’ll find it hard to refuse our offer.&lt;/span&gt;&lt;/p&gt;
+
+&lt;section class=&quot;section-faq&quot;&gt;
+    &lt;h2&gt;FAQ&lt;/h2&gt;
+    &lt;div class=&quot;faq__boxes&quot;&gt;
+                    &lt;div class=&quot;faq__box default-gradient-border&quot;&gt;
+            &lt;div class=&quot;faq__box__head&quot;&gt;
+                &lt;h3 class=&quot;faq__q&quot;&gt;Is 21bit Casino legit?&lt;/h3&gt;
+                &lt;div class=&quot;faq__arrow-down&quot;&gt;&lt;img src=&quot;https://21bitcasino.com/wp-content/themes/bit/assets/img/arrow-down.svg&quot; alt=&quot;&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;faq__a&quot;&gt;Yes, our online casino is licensed by the leading authorities. The license ensures that the casino is 100% legit, and so are our games.
+&lt;/div&gt;
+        &lt;/div&gt;
+        
+
+        &lt;div class=&quot;faq__box default-gradient-border&quot;&gt;
+            &lt;div class=&quot;faq__box__head&quot;&gt;
+                &lt;h3 class=&quot;faq__q&quot;&gt;What kind of games can I play in your crypto casino?&lt;/h3&gt;
+                &lt;div class=&quot;faq__arrow-down&quot;&gt;&lt;img src=&quot;https://21bitcasino.com/wp-content/themes/bit/assets/img/arrow-down.svg&quot; alt=&quot;&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;faq__a&quot;&gt;You can spin slots for free or real money or play a round of blackjack, baccarat, roulette, or poker. Whatever your preference, we have it in our lobby.&lt;/div&gt;
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;faq__box default-gradient-border&quot;&gt;
+            &lt;div class=&quot;faq__box__head&quot;&gt;
+                &lt;h3 class=&quot;faq__q&quot;&gt;What cryptocurrencies are accepted at 21bit?&lt;/h3&gt;
+                &lt;div class=&quot;faq__arrow-down&quot;&gt;&lt;img src=&quot;https://21bitcasino.com/wp-content/themes/bit/assets/img/arrow-down.svg&quot; alt=&quot;&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;faq__a&quot;&gt;We accept a wide range of cryptocurrencies led by the biggest of them all – Bitcoin. As time goes by, expect to see many more on the list.&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;faq__box default-gradient-border&quot;&gt;
+            &lt;div class=&quot;faq__box__head&quot;&gt;
+                &lt;h3 class=&quot;faq__q&quot;&gt;Can I play games on my phone?&lt;/h3&gt;
+                &lt;div class=&quot;faq__arrow-down&quot;&gt;&lt;img src=&quot;https://21bitcasino.com/wp-content/themes/bit/assets/img/arrow-down.svg&quot; alt=&quot;&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;faq__a&quot;&gt;Absolutely. All of the games on our website are mobile optimised, so you can enjoy your faves on the go.&lt;/div&gt;
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;faq__box default-gradient-border&quot;&gt;
+            &lt;div class=&quot;faq__box__head&quot;&gt;
+                &lt;h3 class=&quot;faq__q&quot;&gt;Is there an app I must download?&lt;/h3&gt;
+                &lt;div class=&quot;faq__arrow-down&quot;&gt;&lt;img src=&quot;https://21bitcasino.com/wp-content/themes/bit/assets/img/arrow-down.svg&quot; alt=&quot;&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;faq__a&quot;&gt;No need to download an app. You can play your favourite games straight from a mobile browser.&lt;/div&gt;
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;faq__box default-gradient-border&quot;&gt;
+            &lt;div class=&quot;faq__box__head&quot;&gt;
+                &lt;h3 class=&quot;faq__q&quot;&gt;What kind of bonuses should I expect in 21bit Casino?&lt;/h3&gt;
+                &lt;div class=&quot;faq__arrow-down&quot;&gt;&lt;img src=&quot;https://21bitcasino.com/wp-content/themes/bit/assets/img/arrow-down.svg&quot; alt=&quot;&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;faq__a&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        
+
+
+
+
+    &lt;/div&gt;
+&lt;/section&gt;
+    </pre> -->
+</div></main>
+
+
+<footer class="footer-wrapper">
+    <div class="container">
+        <div class="footer-wrapper__row sponsors">
+            <div class="footer-wrapper__sponsor"><img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/footer-18+.svg" alt=""></div>
+            <div class="footer-wrapper__sponsor"><img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/footer-dmca.svg" alt=""></div>
+            <div class="footer-wrapper__sponsor"><img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/footer-begambleaware.svg" alt=""></div>
+            <div class="footer-wrapper__sponsor"><img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/footer-gamcare.svg" alt=""></div>
+            <div class="footer-wrapper__sponsor"><img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/footer-gpwa.svg" alt=""></div>
+        </div>
+        <div class="footer-wrapper__row first-row">
+            <div class="footer-wrapper-first-row-left-menu">
+                <div class="footer-wrapper__about-us">
+                    <p class="footer-wrapper__list-title">About Us</p>
+                    <ul class="footer-wrapper__list">
+                        <li><a href="https://21bitcasino.com/about-us/">About Us</a></li><li><a href="https://21bitcasino.com/privacy-policy/">Privacy Policy</a></li>                    </ul>
+                </div>
+                <div class="footer-wrapper__quick-menu">
+                    <p class="footer-wrapper__list-title">Quick Menu</p>
+                    <ul class="footer-wrapper__list">
+                        <li><a href="https://21bitcasino.com/free-spins/">21Bit Casino Free Spins</a></li><li><a href="https://21bitcasino.com/free-slots/">21Bit Casino Free Slots</a></li><li><a href="https://21bitcasino.com/bonuses/">21bit Casino Bonus</a></li>                    </ul>
+                </div>
+                <div class="footer-wrapper__contact-details">
+                    <p class="footer-wrapper__list-title footer-wrapper__list-title-contact">CONTACT DETAILS</p>
+                    <address>
+                        <ul class="footer-wrapper__list">
+                            <li><a href="mailto:info@21bit.com">info@21bit.com</a></li>                        </ul>
+                    </address>
+                </div>
+            </div>
+            <div class="footer-wrapper__info">
+                <div class="footer-wrapper__logo"><img src="https://21bitcasino.com/wp-content/themes/bit/assets/img/nav-logo.svg" alt=""></div>
+                <p class="footer-wrapper__info__text">21bit is one of the best casinos striving for greatness in the online gambling sphere. The brand provides a top-notch gaming experience to crypto gamblers all around the world.</p>
+                <div class="footer-wrapper__social-media">
+                                    </div>
+            </div>
+        </div>
+        <div class="footer-wrapper__row copyright">
+            <p>All Rights Reserved &copy; 21 Bit</p>
+        </div>
+    </div>
+</footer>
+<script type='text/javascript' src='https://21bitcasino.com/wp-content/plugins/breeze/assets/js/js-front-end/breeze-lazy-load.min.js?ver=2.0.6' id='breeze-lazy-js'></script>
+<script src="https://21bitcasino.com/wp-content/themes/bit/assets/js/header.js"></script>
+<script src="https://21bitcasino.com/wp-content/themes/bit/assets/js/faq.js"></script>
+<script src="https://21bitcasino.com/wp-content/themes/bit/assets/js/toc.js"></script>
+<script src="https://21bitcasino.com/wp-content/themes/bit/assets/js/script.js"></script>
+<script src="https://21bitcasino.com/wp-content/themes/bit/assets/js/main.js"></script>
+
+
+</body>
+
+</html>
